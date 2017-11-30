@@ -1,0 +1,14 @@
+{
+  "name": "chatserver",
+  "version": "1.0.0",
+  "description": "chat for support system",
+  "main": "server.js",
+  "repository": "https://github.com/madrigall/chatserver.git",
+  "author": "madrigall <madrigall-2014@yandex.ru>",
+  "license": "GNU v3.0",
+  "dependencies": {
+    "config": "^1.28.1",
+    "crypto": "^1.0.1",
+    "socket.io": "^2.0.4"
+  }
+}
